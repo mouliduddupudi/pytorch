@@ -1,2 +1,2 @@
 # pytorch
-My pytorch learnings and projects from scratch.
+Pytorch Image Classification
